@@ -7,5 +7,6 @@ Tein Hei, maailma! harjoitustehtävän.
 Tein Github-käyttäjätilin.
 Latasin gitin Homebrewin avulla macOSille.
 Yhdistin Github-käyttiksen VS Codeen.
+Tein 1. ja 2. harjoitustehtävän ja lisäsin ne githubiin.
 
 ## Moduuli 2
