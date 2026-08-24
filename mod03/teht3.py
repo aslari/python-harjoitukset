@@ -1,0 +1,5 @@
+kanta = float(input("kanta: "))
+korkeus = float(input("korkeus: "))
+piiri = (kanta + kanta + korkeus + korkeus)
+ala = (kanta * korkeus)
+print(f"piiri on {piiri} ja pinta-ala on {ala}")

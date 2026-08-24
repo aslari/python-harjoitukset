@@ -1,0 +1,6 @@
+eka = float(input("eka numero: "))
+toka = float(input("toka numero: "))
+kolmas = float(input("kolmas numero: "))
+print(f"summa: {eka} + {toka} + {kolmas} = {eka + toka + kolmas}")
+print(f"tulo: {eka} * {toka} * {kolmas} = {eka * toka * kolmas}")
+print(f"keskiarvo: ({eka} + {toka} + {kolmas}) / 3 = {(eka + toka + kolmas) / 3}")
