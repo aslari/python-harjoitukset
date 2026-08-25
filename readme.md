@@ -12,4 +12,4 @@ Tein 1. ja 2. harjoitustehtävän ja lisäsin ne githubiin.
 ## Moduuli 2
 
 ## Moduuli 3
-Tein tehtävät 1, 2, 3 ja 4 aika helposti, matikkaa piti muistella. 5 kesken liian vaikea. Tehtävä 5 tehty. Aloitin projektin tekemällä peliprojekti ykköstehtävän.
+Tein tehtävät 1, 2, 3 ja 4 aika helposti, matikkaa piti muistella. Tehtävä 5 tehty. Aloitin projektin tekemällä peliprojekti ykköstehtävän.

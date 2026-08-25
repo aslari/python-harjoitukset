@@ -12,8 +12,8 @@ naula = float(input("anna naulat: "))
 luoti = float(input("anna luodit: "))
 
 luoti_g = (luoti * 13.3)
-naula_g = (luoti * 32 * 13.3)
-leiviska_g = (naula * 20 * 32 * 13.3)
+naula_g = (naula * 32 * 13.3)
+leiviska_g = (leiviska * 20 * 32 * 13.3)
 kilot = (luoti_g + naula_g + leiviska_g) // 1000
 grammat = (luoti_g + naula_g + leiviska_g) % 1000
 
