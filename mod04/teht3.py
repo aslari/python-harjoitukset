@@ -3,16 +3,17 @@
 
 #    Naisen normaali hemoglobiiniarvo on välillä 117-175 g/l.
 #    Miehen normaali hemoglobiiniarvo on välillä 134-195 g/l.
-
+'''
+#eka yritys
 suku = input("anna sukupuoli: N tai M ")
 arvo = int(input("anna hemoglobiiniarvo g/l "))
 
 if suku == "N" and (117 <= arvo <= 175):
-        print("normaali arvo")
+    print("normaali arvo")
 if suku == "N" and arvo > 175:
-        print("korkea arvo")
+    print("korkea arvo")
 if suku == "N" and arvo < 117:
-        print("alhainen arvo")
+    print("alhainen arvo")
 
 if suku == "M" and (134 <= arvo <= 195):
     print("normaali arvo")
@@ -20,4 +21,26 @@ if suku == "M" and arvo > 195:
     print("korkea arvo")
 if suku == "M" and arvo < 134:
     print("alhainen arvo")
+'''
 
+suku = input("anna sukupuoli N tai M: ")
+arvo = int(input("anna hemoglobiiniarvo g/l "))
+
+if suku == "N":
+    if arvo < 117:
+        print(f"{arvo} g/l on {suku}:lle alhainen arvo")
+    if arvo > 175:
+        print(f"{arvo} g/l on {suku}:lle  korkea arvo")
+    if (117 <= arvo <= 175):
+        print(f"{arvo} g/l on {suku}:lle  normaali arvo")
+
+elif suku == "M":
+    if arvo < 134:
+        print(f"{arvo} g/l on {suku}:lle alhainen arvo")
+    if arvo > 195:
+        print(f"{arvo} g/l on {suku}:lle korkea arvo")
+    if (134 <= arvo <= 195):
+        print(f"{arvo} g/l on {suku}:lle normaali arvo")
+
+else:
+    print("nyt meni jotain pieleen")
