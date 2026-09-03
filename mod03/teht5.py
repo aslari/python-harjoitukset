@@ -17,5 +17,8 @@ leiviska_g = (leiviska * 20 * 32 * 13.3)
 kilot = (luoti_g + naula_g + leiviska_g) // 1000
 grammat = (luoti_g + naula_g + leiviska_g) % 1000
 
+# TAI
+# paino = (leiviska * 20 * 32 + luoti + naula) * 13.3
+
 print(f"luodit nykymittojen mukaan: {luoti_g} g, naulat nykymittojen mukaan: {naula_g} g, leiviskät nykymittojen mukaan: {leiviska_g} g")
 print(f"massa nykymittojen mukaan: {kilot} kg {grammat} g")

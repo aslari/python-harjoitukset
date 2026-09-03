@@ -15,3 +15,8 @@ kakskolme = random.randint(1, 6)
 kaksnelj = random.randint(1, 6)
 
 print(f"koodi 1: {yksyks}{ykskaks}{ykskolme}, koodi 2: {kaksyks}{kakskaks}{kakskolme}{kaksnelj}")
+
+# TAI
+#
+#print(f"{random.randint(0, 9)}{random.randint(0, 9)}{random.randint(0, 9)}")
+#print(f"{random.randint(1, 6)}{random.randint(1, 6)}{random.randint(1, 6)}{random.randint(1, 6)}")
