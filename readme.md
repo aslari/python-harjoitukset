@@ -16,3 +16,6 @@ Tein tehtävät 1, 2, 3 ja 4 aika helposti, matikkaa piti muistella. Tehtävä 5
 teht. 1-4 tehty
 
 ## Moduuli 5
+kaikki tehtävät tehty
+## Moduuli 6
+kaikki tehtävät tehty, projekti teht. 2 tehty
